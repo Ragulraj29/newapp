@@ -1,2 +1,2 @@
-#myapp2
+&myapp2
 This is a github test app
